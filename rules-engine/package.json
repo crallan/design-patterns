@@ -1,0 +1,14 @@
+{
+  "name": "rules-engine",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
